@@ -114,6 +114,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/menu_block": {
+                "#3288540: Automated Drupal 10 compatibility fixes": "https://git.drupalcode.org/project/menu_block/-/merge_requests/9.patch"
+            }
         }
     },
     "scripts": {
